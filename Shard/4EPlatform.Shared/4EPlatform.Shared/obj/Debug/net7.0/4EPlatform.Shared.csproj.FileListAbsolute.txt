@@ -1,0 +1,12 @@
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\bin\Debug\net7.0\4EPlatform.Shared.deps.json
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\bin\Debug\net7.0\4EPlatform.Shared.dll
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\bin\Debug\net7.0\4EPlatform.Shared.pdb
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\4EPlatform.Shared.csproj.AssemblyReference.cache
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\4EPlatform.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\4EPlatform.Shared.AssemblyInfoInputs.cache
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\4EPlatform.Shared.AssemblyInfo.cs
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\4EPlatform.Shared.csproj.CoreCompileInputs.cache
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\4EPlatform.Shared.dll
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\refint\4EPlatform.Shared.dll
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\4EPlatform.Shared.pdb
+D:\BeCore\Shared\4EPlatform.Shared\4EPlatform.Shared\obj\Debug\net7.0\ref\4EPlatform.Shared.dll

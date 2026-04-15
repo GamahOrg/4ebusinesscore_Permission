@@ -1,0 +1,12 @@
+D:\Rega Shard\Permession\PermessionGroup\bin\Debug\net8.0\PermessionGroup.deps.json
+D:\Rega Shard\Permession\PermessionGroup\bin\Debug\net8.0\PermessionGroup.dll
+D:\Rega Shard\Permession\PermessionGroup\bin\Debug\net8.0\PermessionGroup.pdb
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\PermessionGroup.csproj.AssemblyReference.cache
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\PermessionGroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\PermessionGroup.AssemblyInfoInputs.cache
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\PermessionGroup.AssemblyInfo.cs
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\PermessionGroup.csproj.CoreCompileInputs.cache
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\PermessionGroup.dll
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\refint\PermessionGroup.dll
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\PermessionGroup.pdb
+D:\Rega Shard\Permession\PermessionGroup\obj\Debug\net8.0\ref\PermessionGroup.dll

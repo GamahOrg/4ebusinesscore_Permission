@@ -1,0 +1,15 @@
+syntax = "proto3";
+import "google/protobuf/wrappers.proto";
+
+
+service PermissionGroupingService {
+  rpc GetUserPermissionGrouping (GetUserPermissionGroupingRequest) returns (GetUserPermissionGroupingResponse);
+}
+message GetUserPermissionGroupingRequest{
+	string UserId = 1;
+  int32 WorkspaceKey = 2;
+}
+message GetUserPermissionGroupingResponse {
+  int32 GroupingType = 1;
+  google.protobuf.BoolValue isSystemAdmin = 2;
+}

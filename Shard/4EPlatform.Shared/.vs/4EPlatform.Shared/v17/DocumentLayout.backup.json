@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BeCore\\Shared\\4EPlatform.Shared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|d:\\becore\\shared\\4eplatform.shared\\4eplatform.shared\\4eplatform.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|solutionrelative:4eplatform.shared\\4eplatform.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|d:\\becore\\shared\\4eplatform.shared\\4eplatform.shared\\filesscript\\preventinjectionscriptfileattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|solutionrelative:4eplatform.shared\\filesscript\\preventinjectionscriptfileattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|d:\\becore\\shared\\4eplatform.shared\\4eplatform.shared\\customvalidationinjection\\preventinjectionscriptattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|solutionrelative:4eplatform.shared\\customvalidationinjection\\preventinjectionscriptattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|d:\\becore\\shared\\4eplatform.shared\\4eplatform.shared\\customvalidationinjection\\preventinjectionhtmlattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|solutionrelative:4eplatform.shared\\customvalidationinjection\\preventinjectionhtmlattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|d:\\becore\\shared\\4eplatform.shared\\4eplatform.shared\\customvalidationinjection\\preventinjectioncsvattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|solutionrelative:4eplatform.shared\\customvalidationinjection\\preventinjectioncsvattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|d:\\becore\\shared\\4eplatform.shared\\4eplatform.shared\\customvalidationinjection\\preventinjectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78E930D6-F1B7-49A7-B268-E8F3C9B11F04}|4EPlatform.Shared\\4EPlatform.Shared.csproj|solutionrelative:4eplatform.shared\\customvalidationinjection\\preventinjectionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PreventInjectionScriptAttribute.cs",
+              "DocumentMoniker": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionScriptAttribute.cs",
+              "RelativeDocumentMoniker": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionScriptAttribute.cs",
+              "ToolTip": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionScriptAttribute.cs",
+              "RelativeToolTip": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionScriptAttribute.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:58:24.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PreventInjectionCSVAttribute.cs",
+              "DocumentMoniker": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionCSVAttribute.cs",
+              "RelativeDocumentMoniker": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionCSVAttribute.cs",
+              "ToolTip": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionCSVAttribute.cs",
+              "RelativeToolTip": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionCSVAttribute.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:58:03.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PreventInjectionScriptFileAttribute.cs",
+              "DocumentMoniker": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\FilesScript\\PreventInjectionScriptFileAttribute.cs",
+              "RelativeDocumentMoniker": "4EPlatform.Shared\\FilesScript\\PreventInjectionScriptFileAttribute.cs",
+              "ToolTip": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\FilesScript\\PreventInjectionScriptFileAttribute.cs",
+              "RelativeToolTip": "4EPlatform.Shared\\FilesScript\\PreventInjectionScriptFileAttribute.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwGkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:56:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PreventInjectionHTMLAttribute.cs",
+              "DocumentMoniker": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionHTMLAttribute.cs",
+              "RelativeDocumentMoniker": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionHTMLAttribute.cs",
+              "ToolTip": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionHTMLAttribute.cs",
+              "RelativeToolTip": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionHTMLAttribute.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:58:17.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4EPlatform.Shared.csproj",
+              "DocumentMoniker": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\4EPlatform.Shared.csproj",
+              "RelativeDocumentMoniker": "4EPlatform.Shared\\4EPlatform.Shared.csproj",
+              "ToolTip": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\4EPlatform.Shared.csproj",
+              "RelativeToolTip": "4EPlatform.Shared\\4EPlatform.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-25T11:53:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PreventInjectionAttribute.cs",
+              "DocumentMoniker": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionAttribute.cs",
+              "RelativeDocumentMoniker": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionAttribute.cs",
+              "ToolTip": "D:\\BeCore\\Shared\\4EPlatform.Shared\\4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionAttribute.cs",
+              "RelativeToolTip": "4EPlatform.Shared\\CustomValidationInjection\\PreventInjectionAttribute.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T11:56:58.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

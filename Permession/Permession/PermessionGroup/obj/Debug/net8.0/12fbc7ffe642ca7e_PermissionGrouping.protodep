@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos/PermissionGrouping.cs \
+obj\Debug\net8.0\Protos/PermissionGroupingGrpc.cs: C:/Users/Lenovo/.nuget/packages/grpc.tools/2.57.0/build/native/include/google/protobuf/wrappers.proto\
+ Protos/PermissionGrouping.proto
